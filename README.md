@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%">
+
 # Java Banking System
 
 A console-based banking application developed in Java to demonstrate Object-Oriented Programming concepts.
